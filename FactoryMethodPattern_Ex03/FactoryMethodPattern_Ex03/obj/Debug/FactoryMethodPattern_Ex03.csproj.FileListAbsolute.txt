@@ -1,0 +1,8 @@
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\bin\Debug\FactoryMethodPattern_Ex03.exe.config
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\bin\Debug\FactoryMethodPattern_Ex03.exe
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\bin\Debug\FactoryMethodPattern_Ex03.pdb
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\obj\Debug\FactoryMethodPattern_Ex03.csproj.AssemblyReference.cache
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\obj\Debug\FactoryMethodPattern_Ex03.csproj.SuggestedBindingRedirects.cache
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\obj\Debug\FactoryMethodPattern_Ex03.csproj.CoreCompileInputs.cache
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\obj\Debug\FactoryMethodPattern_Ex03.exe
+D:\R54\M2\Projects\13\FactoryMethodPattern_Ex03\FactoryMethodPattern_Ex03\obj\Debug\FactoryMethodPattern_Ex03.pdb
